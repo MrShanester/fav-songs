@@ -1,0 +1,25 @@
+POST http://localhost:3000/songs.json
+Content-Type: application/json
+
+{
+  "title": "Involuntary Doppelganger",
+  "album": "Relentless Mutation",
+  "artist": "Archspire", 
+  "year": 2017
+}
+
+###
+
+DELETE http://localhost:3000/songs/3.json
+
+###
+
+PATCH http://localhost:3000/songs/4.json
+Content-Type: application/json
+
+{
+  "title": "Marigold",
+  "album": "Bloom",
+  "artist": "Caligula's Horse", 
+  "year": 2015
+}
