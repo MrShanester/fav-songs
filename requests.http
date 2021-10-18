@@ -2,10 +2,10 @@ POST http://localhost:3000/songs.json
 Content-Type: application/json
 
 {
-  "title": "Involuntary Doppelganger",
-  "album": "Relentless Mutation",
-  "artist": "Archspire", 
-  "year": 2017
+  "title": "Gnossiennes: No. 1, Lent",
+  "album": "Satie: Works for Piano",
+  "artist": "Erik Satie, Marcel Worms", 
+  "year": 2016
 }
 
 ###
