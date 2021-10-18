@@ -1,2 +1,2 @@
-Song.create(title: "Vaudeville", album: "A Romance with Violence", artist: "Wayfarer", year: 2020)
-Song.create(title: "Holocene", album: "Phanerozoic II: Mesozoic|Cenozoic", artist: "The Ocean Collective", year: 2020)
+# Song.create(title: "Vaudeville", album: "A Romance with Violence", artist: "Wayfarer", year: 2020)
+# Song.create(title: "Holocene", album: "Phanerozoic II: Mesozoic|Cenozoic", artist: "The Ocean Collective", year: 2020)
